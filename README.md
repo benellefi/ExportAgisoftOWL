@@ -5,7 +5,7 @@ Python script for automatic export of an Agisoft Metashape project to an OWL ABO
 This script is supposed to be used in Agisoft Photoscan Pro (tested with Version 1.4.4).
 This script will automatically process all chunks.
 
-![Mapping](mapping.png)
+![Mapping](MappingAgisoftArp.png)
 
 Run the script in Tools > Run script
 
