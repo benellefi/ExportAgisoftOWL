@@ -16,4 +16,4 @@ http://creativecommons.org/licenses/by/4.0/
 
 ## Acknowlegement
 
-[iMareCulture project](https://imareculture.eu/)
+[iMareCulture](https://imareculture.eu/)
