@@ -1,5 +1,5 @@
 # ExportAgisoftOWL
-Python script for automatic export of an Agisoft Metashape project to an OWL ABOX modeled with the [Arpenteur](http://www.arpenteur.org/ontology/Arpenteur.owl) ontology
+Python script for automatic export of an Agisoft Metashape project to an OWL ABox modeled with the [Arpenteur](http://www.arpenteur.org/ontology/Arpenteur.owl) ontology
 
 ## Usage
 This script is supposed to be used in Agisoft Photoscan Pro (tested with Version 1.4.4).
