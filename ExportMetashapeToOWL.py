@@ -1,5 +1,5 @@
 ##################################################
-# This script enables to export an Agisoft Metashape project to an OWL ABOX modeled with Arpenteur ontology
+# This script enables to export an Agisoft Metashape project to an OWL ABox modeled with Arpenteur ontology
 ##################################################
 ## {License_info}
 ##################################################
@@ -13,7 +13,7 @@
 import PhotoScan
 from math import *
 from owlready2 import *
-
+# This script is tested with Owlready2 0.14
 
 
 
