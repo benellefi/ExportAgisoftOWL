@@ -14,3 +14,6 @@ Run the script in Tools > Run script
 ## License
 http://creativecommons.org/licenses/by/4.0/
 
+## Project
+http://www.arpenteur.org/
+
