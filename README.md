@@ -7,13 +7,12 @@ This script will automatically process all chunks.
 
 Run the script in Tools > Run script
 
-## Mapping Pattern
-
-![Mapping](MappingAgisoftArp.png)
-
 ## License
 http://creativecommons.org/licenses/by/4.0/
 
 ## Project
 http://www.arpenteur.org/
 
+## Mapping Pattern
+
+![Mapping](MappingAgisoftArp.png)
